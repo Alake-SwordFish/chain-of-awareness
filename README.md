@@ -1,5 +1,5 @@
 # Chain of Awareness (CoA)
-<a href="whitepaper.md">CoA Whitepaper v3.0</a>
+<a href="CoA-Whitepaper-v3.md">CoA Whitepaper v3.0</a>
 A user owned, encrypted and portable memory layer for AI systems.
 
 CoA is a small open protocol that lets people keep their own AI history, encrypted at creation and portable across models and devices.  
